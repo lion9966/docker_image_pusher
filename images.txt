@@ -7,3 +7,4 @@ xhofe/alist:latest
 btpanel/baota
 adolfintel/speedtest
 luoyuu77/baota
+aiweline/weline
