@@ -9,5 +9,5 @@ adolfintel/speedtest
 luoyuu77/baota
 mysql:8.0.39
 valkey/valkey:8
-infiniflow/ragflow:v0.16.0
+swr.cn-north-4.myhuaweicloud.com/infiniflow/ragflow
 docker.elastic.co/elasticsearch/elasticsearch:8.11.3
